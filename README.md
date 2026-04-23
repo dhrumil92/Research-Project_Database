@@ -11,7 +11,7 @@ A fully normalized relational database system designed to manage all research pr
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Database Design](#database-design)
+- [Database Design](#-database-design)
 - [ER Diagram](#er-diagram)
 - [Schema Overview](#schema-overview)
 - [Normalization](#normalization)
@@ -66,10 +66,7 @@ The database design follows the complete lifecycle: requirements gathering → E
 
 ### ER Diagram
 
-> 📌 **[Add ER Diagram image here]**
-> Export your finalized ER diagram as a PNG and place it in `/docs/er_diagram.png`, then uncomment the line below:
-
-<!-- ![ER Diagram](docs/er_diagram.png) -->
+![ER Diagram](docs/RPMS_ER_Diagram.jpg)
 
 Three iterations of the ER diagram were created during the design process:
 1. **Initial ER Diagram** — First draft based on noun analysis
